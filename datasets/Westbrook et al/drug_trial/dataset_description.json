@@ -1,0 +1,18 @@
+{
+    "Name": "Effects of sulpiride and methylphenidate on brain and cognition: a PET pharmaco-fMRI study",
+    "BIDSVersion": "1.1.0",
+    "License": "Data Use Agreement: RU-DI-HD-1.0",
+    "Authors": [
+        "Roshan Cools, Jessica Määttä, Lieke Hofmans, Danae Papadopetraki, Ruben van den Bosch, Britt Lambregts, Andrew Westbrook"
+    ],
+    "Acknowledgements": "Michael Frank, Anne Collins, Nathalie Boot, Matthijs Baas for providing task paradigms",
+    "HowToAcknowledge": "Acknowledge the collection by providing the Persistent Identifier of the data collection http://hdl.handle.net/11633/aac4rtyxciting in your paper/source, and cite the paper describing the study procedure (currently in prep, citation details will be provided once in press)",
+    "Funding": [
+        "This project was supported by a NWO Vici grant (Grant No. 453-14-015)"
+    ],
+    "ReferencesAndLinks": [
+        "OPTIONAL. List of references to publication that contain information on the dataset, or links"
+    ],
+    "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)",
+	"DatasetPersistentIdentifier": "http://hdl.handle.net/11633/aac4rtyx"
+}

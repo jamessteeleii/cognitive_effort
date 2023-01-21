@@ -1,0 +1,155 @@
+"","id","Scale Title","Trial 1: 0_back","Trial 2: 2_back","Trial 3: 3_back","Trial 4: 2_back","Trial 5: 3_back","Trial 6: 0_back","Weight"
+"1","002.csv","Mental Demand","5",10,50,10,45,0,5
+"2","002.csv","Physical Demand","5",5,5,5,5,0,0
+"3","002.csv","Temporal Demand","5",5,5,10,15,5,2
+"4","002.csv","Performance","0",0,5,0,5,0,3
+"5","002.csv","Effort","5",10,50,10,35,0,4
+"6","002.csv","Frustration","5",5,20,5,15,0,1
+"7","002.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"8","003.csv","Mental Demand","10",40,85,20,75,10,1
+"9","003.csv","Physical Demand","15",25,85,15,80,15,2
+"10","003.csv","Temporal Demand","15",55,100,25,80,10,4
+"11","003.csv","Performance","15",40,85,20,90,10,2
+"12","003.csv","Effort","15",60,85,45,85,10,2
+"13","003.csv","Frustration","10",45,80,30,100,0,4
+"14","003.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"15","004.csv","Mental Demand","5",65,90,50,80,0,1
+"16","004.csv","Physical Demand","5",70,95,50,75,0,0
+"17","004.csv","Temporal Demand","0",75,95,50,80,0,3
+"18","004.csv","Performance","0",25,95,20,10,0,5
+"19","004.csv","Effort","5",80,90,55,65,0,4
+"20","004.csv","Frustration","0",60,95,60,40,0,2
+"21","004.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"22","005.csv","Mental Demand","0",10,50,5,50,0,4
+"23","005.csv","Physical Demand","0",0,0,0,0,0,1
+"24","005.csv","Temporal Demand","0",5,10,5,10,0,2
+"25","005.csv","Performance","0",0,0,0,0,0,5
+"26","005.csv","Effort","0",5,20,5,25,0,3
+"27","005.csv","Frustration","0",0,0,0,0,0,0
+"28","005.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"29","006.csv","Mental Demand","0",50,70,20,30,0,4
+"30","006.csv","Physical Demand","0",0,0,0,0,0,0
+"31","006.csv","Temporal Demand","0",0,0,0,0,0,3
+"32","006.csv","Performance","0",5,25,5,10,0,2
+"33","006.csv","Effort","0",20,45,5,20,0,5
+"34","006.csv","Frustration","0",0,5,0,0,0,1
+"35","006.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"36","008.csv","Mental Demand","0",35,75,30,50,5,3
+"37","008.csv","Physical Demand","0",40,75,30,55,15,5
+"38","008.csv","Temporal Demand","10",15,65,15,20,5,1
+"39","008.csv","Performance","0",15,40,5,10,0,2
+"40","008.csv","Effort","0",60,70,45,50,5,4
+"41","008.csv","Frustration","5",25,50,30,30,5,0
+"42","008.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"43","010.csv","Mental Demand","0",40,85,15,45,0,4
+"44","010.csv","Physical Demand","0",5,15,0,5,0,0
+"45","010.csv","Temporal Demand","0",50,80,10,35,0,3
+"46","010.csv","Performance","0",25,45,5,15,0,5
+"47","010.csv","Effort","0",35,80,5,10,0,1
+"48","010.csv","Frustration","0",20,45,15,15,0,2
+"49","010.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"50","011.csv","Mental Demand","0",45,100,70,100,0,3
+"51","011.csv","Physical Demand","0",45,100,60,95,0,2
+"52","011.csv","Temporal Demand","0",45,100,75,75,0,1
+"53","011.csv","Performance","0",25,40,30,40,0,5
+"54","011.csv","Effort","50",75,100,80,100,50,4
+"55","011.csv","Frustration","0",45,85,50,50,0,0
+"56","011.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"57","012.csv","Mental Demand","25",65,70,45,65,30,5
+"58","012.csv","Physical Demand","15",25,30,20,30,20,2
+"59","012.csv","Temporal Demand","15",50,70,45,50,20,3
+"60","012.csv","Performance","10",45,55,20,30,5,1
+"61","012.csv","Effort","25",70,75,85,85,20,4
+"62","012.csv","Frustration","5",55,70,35,40,10,0
+"63","012.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"64","013.csv","Mental Demand","5",35,50,10,85,0,5
+"65","013.csv","Physical Demand","10",25,35,10,55,0,0
+"66","013.csv","Temporal Demand","30",45,50,20,85,5,1
+"67","013.csv","Performance","5",15,50,5,85,0,4
+"68","013.csv","Effort","20",40,50,10,65,5,3
+"69","013.csv","Frustration","5",20,55,5,95,5,2
+"70","013.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"71","014.csv","Mental Demand","0",25,35,25,35,0,5
+"72","014.csv","Physical Demand","0",0,0,0,0,0,2
+"73","014.csv","Temporal Demand","0",15,20,15,15,0,1
+"74","014.csv","Performance","0",25,25,50,20,0,4
+"75","014.csv","Effort","0",0,0,0,0,0,3
+"76","014.csv","Frustration","0",0,25,20,0,10,0
+"77","014.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"78","015.csv","Mental Demand","25",60,95,85,100,20,4
+"79","015.csv","Physical Demand","25",55,80,85,95,85,3
+"80","015.csv","Temporal Demand","25",45,45,45,45,45,0
+"81","015.csv","Performance","5",25,55,35,55,5,5
+"82","015.csv","Effort","15",65,90,80,80,10,1
+"83","015.csv","Frustration","10",30,50,45,55,10,2
+"84","015.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"85","016.csv","Mental Demand","30",85,95,65,85,35,4
+"86","016.csv","Physical Demand","20",60,75,45,65,25,0
+"87","016.csv","Temporal Demand","35",70,80,50,85,30,1
+"88","016.csv","Performance","35",85,90,50,85,25,5
+"89","016.csv","Effort","85",70,85,80,85,45,2
+"90","016.csv","Frustration","30",75,85,65,85,25,3
+"91","016.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"92","017.csv","Mental Demand","5",45,65,50,70,10,4
+"93","017.csv","Physical Demand","5",30,65,45,60,10,3
+"94","017.csv","Temporal Demand","5",50,80,30,85,5,1
+"95","017.csv","Performance","5",25,60,20,70,0,5
+"96","017.csv","Effort","5",40,70,35,75,20,2
+"97","017.csv","Frustration","5",60,75,65,85,40,0
+"98","017.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"99","018.csv","Mental Demand","5",15,30,15,25,0,3
+"100","018.csv","Physical Demand","5",15,30,15,25,0,0
+"101","018.csv","Temporal Demand","5",20,35,15,15,0,2
+"102","018.csv","Performance","0",10,35,15,20,0,5
+"103","018.csv","Effort","5",15,40,15,15,0,4
+"104","018.csv","Frustration","5",15,35,10,20,0,1
+"105","018.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"106","019.csv","Mental Demand","5",30,45,25,45,0,4
+"107","019.csv","Physical Demand","5",25,40,20,40,0,2
+"108","019.csv","Temporal Demand","5",30,50,20,40,5,3
+"109","019.csv","Performance","5",30,50,15,35,5,1
+"110","019.csv","Effort","5",30,55,20,45,5,5
+"111","019.csv","Frustration","5",20,40,15,25,0,0
+"112","019.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"113","020.csv","Mental Demand","0",70,100,20,85,0,4
+"114","020.csv","Physical Demand","0",70,90,20,100,0,3
+"115","020.csv","Temporal Demand","0",55,100,20,100,0,1
+"116","020.csv","Performance","0",50,85,15,80,0,5
+"117","020.csv","Effort","0",75,100,15,100,0,1
+"118","020.csv","Frustration","0",30,60,15,70,0,1
+"119","020.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"120","021.csv","Mental Demand","5",65,85,60,80,0,5
+"121","021.csv","Physical Demand","10",15,15,20,15,5,0
+"122","021.csv","Temporal Demand","10",20,20,10,25,0,1
+"123","021.csv","Performance","5",25,40,15,70,0,3
+"124","021.csv","Effort","0",65,80,60,85,5,4
+"125","021.csv","Frustration","0",35,55,20,60,5,2
+"126","021.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"127","022.csv","Mental Demand","0",10,50,10,50,5,3
+"128","022.csv","Physical Demand","0",5,25,10,35,5,2
+"129","022.csv","Temporal Demand","15",15,50,15,30,10,0
+"130","022.csv","Performance","0",0,20,0,15,0,5
+"131","022.csv","Effort","5",15,35,15,50,20,1
+"132","022.csv","Frustration","5",5,25,5,30,15,4
+"133","022.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"134","023.csv","Mental Demand","15",60,75,65,80,10,4
+"135","023.csv","Physical Demand","20",65,75,60,80,15,2
+"136","023.csv","Temporal Demand","45",60,65,55,30,20,0
+"137","023.csv","Performance","15",70,80,35,65,15,3
+"138","023.csv","Effort","15",70,75,65,80,20,4
+"139","023.csv","Frustration","20",70,80,55,80,15,2
+"140","023.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"141","024.csv","Mental Demand","0",50,65,50,50,0,3
+"142","024.csv","Physical Demand","0",30,35,15,15,0,4
+"143","024.csv","Temporal Demand","0",40,50,25,25,0,1
+"144","024.csv","Performance","10",20,25,15,15,5,5
+"145","024.csv","Effort","85",100,95,75,75,50,2
+"146","024.csv","Frustration","0",10,10,10,10,0,0
+"147","024.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
+"148","025.csv","Mental Demand","30",45,65,30,60,10,3
+"149","025.csv","Physical Demand","15",15,30,20,20,10,0
+"150","025.csv","Temporal Demand","5",30,50,5,50,5,3
+"151","025.csv","Performance","5",10,30,5,10,5,1
+"152","025.csv","Effort","80",90,100,65,95,10,5
+"153","025.csv","Frustration","10",20,30,5,20,5,3
+"154","025.csv",NA,"Adjusted rate(Weight x Raw)",NA,NA,NA,NA,NA,NA
